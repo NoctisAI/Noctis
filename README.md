@@ -1,4 +1,4 @@
-# OpenSSF Malicious Packages
+# Noctis AI Open Source Malicious Packages
 
 This repository is a collection of reports of malicious packages identified in
 Open Source package repositories, consumable via the
